@@ -1,0 +1,15 @@
+2-neutro.png 0 1 0.5 1
+2-andar1.png 0 1 0.5 1
+2-andar2.png 0 1 0.5 1
+2-andar3.png 0 1 0.5 1
+2-andar2.png 0 1 0.5 1
+2-andar1i.png 0 1 0.5 1
+2-andar2i.png 0 1 0.5 1
+2-andar3i.png 0 1 0.5 1
+2-andar2i.png 0 1 0.5 1
+2-int1.png 0 1 0.5 1
+2-int2.png 0 1 0.5 1
+2-neutro.png 0 1 0.5 1
+2-int1.png 0 1 0.5 1
+2-int2.png 0 1 0.5 1
+2-neutroi.png 0 1 0.5 1

@@ -1,0 +1,77 @@
+10
+4-floresta.jpg
+1
+620 666 0
+11
+4-roxa.png       0.0 0.6 0.5 1.0
+4-rosa.png       0.0 0.6 0.5 1.0
+4-regia.png      0.0 0.6 0.5 1.0
+4-margaridas.png 0.0 0.6 0.5 1.0
+4-color.png      0.0 0.6 0.5 1.0
+4-laranja.png    0.0 0.6 0.5 1.0
+4-branca.png     0.0 0.6 0.5 1.0
+4-azul.png       0.0 0.6 0.5 1.0
+4-conjunto.png   0.0 0.6 0.5 1.0
+4-amarillo.png   0.0 0.6 0.5 1.0
+nada.png       0.0 0.6 0.5 1.0
+10
+888 954 3 2 0
+11 4-flor-1.lua 2 8
+1
+11
+1 empty.lua 1 1
+1
+786 902 1 2 0
+11 4-flor-2.lua 2 8
+2
+11
+2 empty.lua 1 1
+2
+382 956 1 2 0
+11 4-flor-3.lua 2 8
+3
+11
+3 empty.lua 1 1
+3
+984 804 1 2 0
+11 4-flor-4.lua 2 8
+4
+11
+4 empty.lua 1 1
+4
+1054 928 1 2 0
+11 4-flor-5.lua 2 8
+5
+11
+5 empty.lua 1 1
+5
+408 694 1 2 0
+11 4-flor-6.lua 2 8
+6
+11
+6 empty.lua 1 1
+6
+280 758 1 2 0
+11 4-flor-7.lua 2 8
+7
+11
+7 empty.lua 1 1
+7
+186 870 1 2 0
+11 4-flor-8.lua 2 8
+8
+11
+8 empty.lua 1 1
+8
+762 802 1 2 0
+11 4-flor-9.lua 2 8
+9
+11
+9 empty.lua 1 1
+9
+130 734 1 2 0
+11 4-flor-10.lua 2 8
+10
+11
+10 empty.lua 1 1
+10

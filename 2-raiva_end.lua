@@ -1,0 +1,7 @@
+love.audio.stop(bgm)
+open_stage(path..division.."3-meio.txt")
+open_stage(path..division.."3-cima.txt")
+open_stage(path..division.."3-baixo.txt")
+open_stage(path..division.."3-meio.txt")
+open_persona(path..division.."3-barganha-d.txt")
+bgm = love.audio.newSource("3-barganha.mp3", "stream")

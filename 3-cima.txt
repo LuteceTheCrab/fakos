@@ -1,0 +1,51 @@
+7
+3-cima.jpg
+4
+283 670 6
+459 700 5
+448 499 3
+744 450 0
+12
+nada.png         0    1    0.5 1
+3-sanduba.png      0    1    0.5 0.8
+3-sanduba.png      0.1  1    0.5 0.8
+3-sanduba.png     -0.1  1    0.5 0.8
+3-florido.png      0    0.82 0.5 0.55
+3-florido.png      0.1  0.82 0.5 0.55
+3-florido.png     -0.1  0.82 0.5 0.55
+3-balaoflorido.png 0    0.82 0.33 0.64
+3-flor.png         0    0.40 0.5 0.55
+3-flor.png         0.1  0.40 0.5 0.55
+3-flor.png        -0.1  0.40 0.5 0.55
+3-pimenta.png      0    0.8  0.5 0.6
+4
+459 700 7  1 1
+1 3-meio-1.lua 1 1
+1
+342 294 4  1 0
+2 empty.lua  4 6
+2
+3
+2
+4
+124 517 3  3 0
+5 empty.lua  3 8
+8
+8
+5
+5 3-florido.lua 4 6
+5
+6
+5
+7
+9 empty.lua 4 6
+9
+10
+9
+11
+418 283 4  2 0
+12 3-pimenta.lua  2 4
+1
+12
+1 empty.lua 1 1
+1

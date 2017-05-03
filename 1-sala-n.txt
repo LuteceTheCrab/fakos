@@ -1,0 +1,42 @@
+1
+1-sala-n.jpg
+7
+103 381 28
+437 377 0
+743 382 89
+306 321 21
+544 312 77
+420 562 64
+828 560 52
+7
+nada.png       0    1    0.5  1
+1-abajur.png     0    1    0.5  0.9
+1-abajur2.png    0    1    0.5  0.9
+1-planta.png     0    1    0.55 0.9
+1-planta.png     0.1  1    0.55 0.9
+1-planta.png     -0.1 1    0.55 0.9
+1-pedaco3.png    0    0.05 0    0
+5
+306 241 11     1 1
+1 1-quarto.lua     1 1
+1
+544 232 22     1 1
+1 1-cozinha.lua    1 1
+1
+152 314 11     1 0
+4 empty.lua      4 6
+4
+5
+4
+6
+410 268 26     2 0
+2 1-abajur_on.lua  1 1
+2
+3 1-abajur_off.lua 1 1
+3
+349 522 32    2 0
+7 1-jornal3.lua     2 4
+1
+7
+1 empty.lua      1 1
+1

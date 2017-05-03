@@ -1,0 +1,62 @@
+8
+3-meio.jpg
+5
+309 342 24
+42  322 0
+219 669 8
+370 706 5
+357 125 1
+13
+nada.png       0   1    0.5  1
+3-vaso_comolho.png    0   0.7  0.4  0.49
+3-colar.png      0   1    0.45 0.7
+3-olhorei.png    1.6 0.5  0.4  0.9
+3-balaorei.png   0   0.3  0    1.2
+3-figo.png       0   0.8  0.5  0.6
+3-figo.png       0.1 0.8  0.5  0.6
+3-figo.png      -0.1 0.8  0.5  0.6
+3-balaofigo.png  0   0.27 0.40 0.6
+3-figo1.png      0   0.3  0.5  0.6
+3-figo1.png      0.1 0.3  0.5  0.6
+3-figo1.png     -0.1 0.3  0.5  0.6
+3-vaso_semolho.png    0   0.2  0.4  0.6
+6
+357 65 16 1 1
+1 3-cima.lua   1 1
+1
+370 706 12 1 1
+1 3-baixo.lua  1 1
+1
+151 520 4  2 0
+3 3-colar.lua  2 4
+1
+3
+1 empty.lua 1 1
+1
+76  609 4  2 0
+2 3-olhoovo.lua  2 4
+13
+2
+13 empty.lua 1 1
+13
+735 223 1  2 0
+5 empty.lua  2 5
+1
+5
+4 empty.lua 1 1
+4
+448 185 1  3 0
+6 empty.lua  3 8
+9
+9
+6
+6 3-figo.lua 4 6
+6
+7
+6
+8
+10 empty.lua 4 6
+10
+11
+10
+12

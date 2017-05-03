@@ -1,0 +1,15 @@
+1-frente.png   0 0.14 0.5 0.9
+1-andar1.png   0 0.18 0.5 0.9
+1-andar2.png   0 0.18 0.5 0.9
+1-andar3.png   0 0.18 0.5 0.9
+1-andar2.png   0 0.18 0.5 0.9
+1-andar1i.png  0 0.18 0.5 0.9
+1-andar2i.png  0 0.18 0.5 0.9
+1-andar3i.png  0 0.18 0.5 0.9
+1-andar2i.png  0 0.18 0.5 0.9
+1-int1.png     0 0.2  0.5 1
+1-int2.png     0 0.2  0.5 1
+1-sentado.png  0 0.14 0.5 0.85
+1-int1i.png    0 0.2  0.5 1
+1-int2i.png    0 0.2  0.5 1
+1-sentadoi.png 0 0.14 0.5 0.85

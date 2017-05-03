@@ -1,0 +1,15 @@
+4-frente.png   0 0.14 0.5 0.9
+4-andar1.png   0 0.18 0.5 0.9
+4-andar2.png   0 0.18 0.5 0.9
+4-andar3.png   0 0.18 0.5 0.9
+4-andar2.png   0 0.18 0.5 0.9
+4-andar1i.png  0 0.18 0.5 0.9
+4-andar2i.png  0 0.18 0.5 0.9
+4-andar3i.png  0 0.18 0.5 0.9
+4-andar2i.png  0 0.18 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9
+4-frente.png   0 0.14 0.5 0.9

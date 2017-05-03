@@ -1,0 +1,49 @@
+11
+5-realidade.jpg
+7
+103 381 28
+437 377 0
+743 382 89
+306 321 21
+544 312 77
+420 562 64
+828 560 52
+13
+nada.png 0 1 0.5 1
+5-abajur.png           0    0.6  0.4  0.9
+5-abajur.png           0.1  0.6  0.4  0.9
+5-abajur.png          -0.1  0.6  0.4  0.9
+5-folhas.png           0    1    0.55 0.9
+5-folhas.png           0.1  1    0.55 0.9
+5-folhas.png          -0.1  1    0.55 0.9
+5-jornal_realidade.png 0    0.05 0.5  0.6
+5-decoracao.png        0    1    0.5  0.9
+5-decoracao.png        0.1  1    0.5  0.9
+5-decoracao.png       -0.1  1    0.5  0.9
+5-vaso.png             0    1    0.55 0.9
+5-jornal_realidade.png 0    0.90 0.8  0.85
+5
+410 208 26   1 0
+2 empty.lua    4 6
+2
+3
+2
+4
+151 254 11   1 0
+5 empty.lua    4 6
+5
+6
+5
+7
+754 289 20  1 0
+9 empty.lua   4 6
+9
+10
+9
+11
+148 308 0 1 0
+12 empty.lua 1 1
+12
+706 483 64  1 0
+8 5-jornal_realidade.lua   1 16
+13
